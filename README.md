@@ -1,4 +1,4 @@
-# NLP-LAB-Assignment-2
+# Text Extraction form PDF For Preprocessing & Feature Extraction
 # Text Analysis Project: PDF Text Extraction and Feature Engineering
 
 This project demonstrates a comprehensive workflow for extracting text from a PDF document, performing various text preprocessing steps, and then applying feature extraction techniques like One-Hot Encoding and TF-IDF. Finally, it visualizes the TF-IDF scores using Plotly.
